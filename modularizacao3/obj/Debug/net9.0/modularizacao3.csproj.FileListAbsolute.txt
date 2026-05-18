@@ -1,0 +1,14 @@
+C:\Users\1646186\Desktop\modularizacao3\obj\Debug\net9.0\modularizacao3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1646186\Desktop\modularizacao3\obj\Debug\net9.0\modularizacao3.AssemblyInfoInputs.cache
+C:\Users\1646186\Desktop\modularizacao3\obj\Debug\net9.0\modularizacao3.AssemblyInfo.cs
+C:\Users\1646186\Desktop\modularizacao3\obj\Debug\net9.0\modularizacao3.csproj.CoreCompileInputs.cache
+C:\Users\1646186\Desktop\modularizacao3\bin\Debug\net9.0\modularizacao3.exe
+C:\Users\1646186\Desktop\modularizacao3\bin\Debug\net9.0\modularizacao3.deps.json
+C:\Users\1646186\Desktop\modularizacao3\bin\Debug\net9.0\modularizacao3.runtimeconfig.json
+C:\Users\1646186\Desktop\modularizacao3\bin\Debug\net9.0\modularizacao3.dll
+C:\Users\1646186\Desktop\modularizacao3\bin\Debug\net9.0\modularizacao3.pdb
+C:\Users\1646186\Desktop\modularizacao3\obj\Debug\net9.0\modularizacao3.dll
+C:\Users\1646186\Desktop\modularizacao3\obj\Debug\net9.0\refint\modularizacao3.dll
+C:\Users\1646186\Desktop\modularizacao3\obj\Debug\net9.0\modularizacao3.pdb
+C:\Users\1646186\Desktop\modularizacao3\obj\Debug\net9.0\modularizacao3.genruntimeconfig.cache
+C:\Users\1646186\Desktop\modularizacao3\obj\Debug\net9.0\ref\modularizacao3.dll
